@@ -1,2 +1,2 @@
-Codes for the math concepts on Numberphile. 
+Codes for different math concepts. 
 
