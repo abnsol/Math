@@ -15,4 +15,5 @@ def lucky_num(n):
                 a-=1
                 follower+=j-1
     return lucky_list
-print(lucky_num(1000))
+print(lucky_num(n))
+
